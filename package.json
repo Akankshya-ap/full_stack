@@ -8,6 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
+<<<<<<< HEAD
   "author": "Akankshya Patra",
   "license": "ISC",
   "devDependencies": {
@@ -19,5 +20,19 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akankshya-ap/full_stack.git"
+  },
+  "author": "Akankshya Patra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akankshya-ap/full_stack/issues"
+  },
+  "homepage": "https://github.com/Akankshya-ap/full_stack#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+>>>>>>> 1596d08036831ee2b288b0262a7206d7ce129eb5
   }
 }
